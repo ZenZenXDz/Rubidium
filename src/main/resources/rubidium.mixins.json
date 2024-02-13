@@ -18,7 +18,6 @@
     "core.model.MixinItemColors",
     "core.pipeline.MixinBakedQuad",
     "core.pipeline.vertex.MixinBufferBuilder",
-    "core.pipeline.vertex.MixinOutlineVertexConsumer",
     "core.pipeline.vertex.MixinOverlayVertexConsumer",
     "core.pipeline.vertex.MixinSpriteTexturedVertexConsumer",
     "core.pipeline.vertex.MixinVertexConsumers$MixinDual",
